@@ -1,0 +1,150 @@
+|ABBR|, |What does INRI stand for when used on Jesus ' cross ?	|
+|ABBR|, |CNN is the abbreviation for what ?	|
+|ABBR|, |What does S.O.S. stand for ?	|
+|ABBR|, |What is the abbreviation for micro ?	|
+|ABBR|, |What does ` PSI ' stand for ?	|
+|ENTY|, |What musical instrument did Prewitt play in James Jones 's From Here to Eternity ?	|
+|ENTY|, |What cocktail do you concoct with whisky and sweet vermouth ?	|
+|ENTY|, |How do you say `` fresh '' in Spanish ?	|
+|ENTY|, |What movie did Madilyn Kahn star in with Gene Wilder ?	|
+|ENTY|, |What type of bridge is the Golden Gate Bridge ?	|
+|ENTY|, |What deck of cards includes the Wheel of Fortune , the Lovers , and Death ?	|
+|ENTY|, |What does the Statue of Liberty wear on her feet ?	|
+|ENTY|, |What household facility contains a float ball , ballcock , and overflow tube ?	|
+|ENTY|, |What was the name of Betty Boop 's dog ?	|
+|DESC|, |What are the distinct physical characterstics of the Arabian horse ?	|
+|ENTY|, |What is a fear of thunder ?	|
+|ENTY|, |What is a fear of bees ?	|
+|ENTY|, |What Vladimir Nabokov novel features Professor Humbert in love with a 12-year-old girl ?	|
+|ENTY|, |What game do Steve McQueen and Edward G. Robinson play in The Cincinnati Kid ?	|
+|ENTY|, |What fastener did Whitcomb Judson patent in 1893 ?	|
+|ENTY|, |What does ribavirin consist of ?	|
+|ENTY|, |Name the soft drink that is `` number one in the sun . ''	|
+|ENTY|, |What is `` the bear of beers '' ?	|
+|ENTY|, |Name the operating system that runs on IBM-compatible machines .	|
+|ENTY|, |What color of dry wine should be served with veal roasts and chops ?	|
+|LOC|, |Where is your corpus callosum ?	|
+|LOC|, |When Superman needs to get away from it all , where does he go ?	|
+|LOC|, |Which Latin American country is the largest ?	|
+|LOC|, |What was the former residence of Scottish kings in Edinburgh ?	|
+|LOC|, |What country buys 25 percent of the world 's tea exports ?	|
+|LOC|, |What country is the origin of the band the Creeps ?	|
+|LOC|, |What erupts every hour at Yellowstone National Park ?	|
+|LOC|, |What country contains the highest point in South America ?	|
+|LOC|, |What New York City landmark has 168 steps to its crown ?	|
+|LOC|, |Where is the Bulls basketball team based ?	|
+|LOC|, |What 's the second-highest mountain in the world ?	|
+|LOC|, |What country was Erich Honecker the leader of ?	|
+|LOC|, |What eastern state sprouted the first commercial nuclear power plant in the U.S. ?	|
+|LOC|, |What are the three most populated countries in the world ?	|
+|LOC|, |What U.S. city 's skyline boasts the Gateway Arch ?	|
+|LOC|, |Where is Belize located ?	|
+|LOC|, |What southeast Asian country has the Wang River joining the Ping River at Tak ?	|
+|LOC|, |What Italian city of 155 were Leonardo da Vinci , Michaelangelo , and Machiavelli all working in ?	|
+|LOC|, |On what avenue is the original Saks department store located ?	|
+|LOC|, |Where does the song Anything Goes take place ?	|
+|LOC|, |Where was the first zoo in the U.S. ?	|
+|LOC|, |Where can I read about Chiang Kai-shek ?	|
+|LOC|, |What country borders the most others ?	|
+|LOC|, |Where on the Internet can I get chemicals importers ?	|
+|LOC|, |What was the first country to put a second woman in space ?	|
+|LOC|, |What prison is found in Ossining , New York ?	|
+|LOC|, |What country has declared one-fifth of its territory off-limits to Russians ?	|
+|LOC|, |What is the longest river in the United States ?	|
+|LOC|, |What country 's flag is field green ?	|
+|DESC|, |How did serfdom develop in and then leave Russia ?	|
+|DESC|, |How can I find a list of celebrities ' real names ?	|
+|DESC|, |What are liver enzymes ?	|
+|DESC|, |Why do heavier objects travel downhill faster ?	|
+|DESC|, |What did the only repealed amendment to the U.S. Constitution deal with ?	|
+|DESC|, |What is `` Nine Inch Nails '' ?	|
+|DESC|, |What is an annotated bibliography ?	|
+|DESC|, |What 's the Olympic motto ?	|
+|DESC|, |What is the origin of the name ` Scarlett ' ?	|
+|DESC|, |What do Mormons believe ?	|
+|DESC|, |How can I register my website in Yahoo for free ?	|
+|DESC|, |How do they find or choose witnesses to an execution ?	|
+|DESC|, |How do you ask a total stranger out on a date ?	|
+|DESC|, |What is ethology ?	|
+|DESC|, |Where did the term `` 86ed '' come from ?	|
+|DESC|, |What is the nature of learning ?	|
+|DESC|, |What is the Kashmir issue ?	|
+|DESC|, |What does `` extended definition '' mean and how would one write a paper on it ?	|
+|DESC|, |What is titanium ?	|
+|DESC|, |What is a caldera ?	|
+|DESC|, |Why do people get calluses ?	|
+|DESC|, |What are Cushman and Wakefield known for ?	|
+|DESC|, |What is the history of skateboarding ?	|
+|DESC|, |How do I make fuel bricks from recycled newspaper ?	|
+|DESC|, |How do I log on to home page at Headquarters U.S. European Command ?	|
+|DESC|, |What is the origin of head lice ?	|
+|DESC|, |What causes the body to shiver in cold temperatures ?	|
+|DESC|, |What are bear and bull markets ?	|
+|DESC|, |What is `` dew point '' ?	|
+|DESC|, |What is the meaning of Jesus ?	|
+|HUM|, |What contemptible scoundrel stole the cork from my lunch ?|
+|HUM|, |What team did baseball 's St. Louis Browns become ?|
+|HUM|, |What is the oldest profession ?|
+|HUM|, |Name the scar-faced bounty hunter of The Old West .|
+|HUM|, |Who was The Pride of the Yankees ?|
+|HUM|, |Who killed Gandhi ?|
+|HUM|, |Name 11 famous martyrs .|
+|HUM|, |Who was the inventor of silly putty ?|
+|HUM|, |Which company that manufactures video-game hardware sells the `` super system '' ?|
+|HUM|, |What 1920s cowboy star rode Tony the Wonder Horse ?|
+|HUM|, |What ISPs exist in the Caribbean ?|
+|HUM|, |Who was the prophet of the Muslim people ?|
+|HUM|, |Who is Snoopy 's arch-enemy ?|
+|HUM|, |Who do Herb and Tootsie live next door to ?|
+|HUM|, |Who is the founder of Scientology ?|
+|HUM|, |Who starred in Singing in the Rain and The Singing Nun ?|
+|HUM|, |What 19th-century painter died in the Marquesas Islands ?|
+|HUM|, |Who were the five Marx brothers ?|
+|HUM|, |What company 's logo is a `` W '' in a circle ?|
+|HUM|, |Who invented Make-up ?|
+|HUM|, |Which of the following was Rhodes Scholar ?|
+|HUM|, |Who comprised the now-defunct comic book team known as the Champions ?|
+|HUM|, |What crooner joined The Andrews Sisters for Pistol Packin Mama ?|
+|HUM|, |What piano company claims its product is the `` Instrument of the immortals '' ?|
+|HUM|, |What actress has received the most Oscar nominations ?|
+|HUM|, |Who produces Spumante ?|
+|HUM|, |Who earns their money the hard way ?|
+|HUM|, |Who founded the People 's Temple Commune ?|
+|HUM|, |What athlete makes the most money from sports merchandise sales ?|
+|NUM|, |How many people in the world speak French ?	|
+|NUM|, |How many inches over six feet is the Venus de Milo ?	|
+|NUM|, |In which year was New Zealand excluded from the ANZUS alliance ?	|
+|NUM|, |When did CNN begin broadcasting ?	|
+|NUM|, |In what year did Thatcher become prime minister ?	|
+|NUM|, |How many months does it take the moon to revolve around the Earth ?	|
+|NUM|, |When did beethoven die ?	|
+|NUM|, |How much does a new railroad coal car cost ?	|
+|NUM|, |When did Mount St. Helen last have a significant eruption ?	|
+|NUM|, |When did World War I start ?	|
+|NUM|, |How many feet are there in a fathom ?	|
+|NUM|, |When was the battle of the Somme fought ?	|
+|NUM|, |How many people did Randy Craft kill ?	|
+|NUM|, |When did Spielberg direct `` Jaws '' ?	|
+|NUM|, |What is the size of the largest akita ?	|
+|NUM|, |What was Einstein 's IQ ?	|
+|NUM|, |What day was Pearl Harbor attacked in 1942 ?	|
+|NUM|, |What is the normal resting heart rate of a healthy adult ?	|
+|NUM|, |What is the population of Ohio ?	|
+|NUM|, |How many calories are there in a Big Mac ?	|
+|NUM|, |What year did Jack Nicklaus join the Professional Golfers Association tour ?	|
+|NUM|, |How many sonnets did Shakespeare write ?	|
+|NUM|, |What is the speed of the Mississippi River ?	|
+|NUM|, |How many Beatles ' records went #1 ?	|
+|NUM|, |What time of day did Emperor Hirohito die ?	|
+|NUM|, |How many years did it take James Joyce to write Ulysses ?	|
+|NUM|, |When was the women 's suffrage amendment ratified ?	|
+|NUM|, |What year did Hitler die ?	|
+|NUM|, |How much money are Dumbo 's ears insured for ?	|
+|HUM|, |What crooner joined The Andrews Sisters for Pistol Packin Mama ?|
+|HUM|, |What piano company claims its product is the `` Instrument of the immortals '' ?|
+|HUM|, |What actress has received the most Oscar nominations ?|
+|HUM|, |Who produces Spumante ?|
+|HUM|, |Who earns their money the hard way ?|
+|HUM|, |Who founded the People 's Temple Commune ?|
+|HUM|, |What athlete makes the most money from sports merchandise sales ?|
+|HUM|, |Who discovered electricity ?|
